@@ -1,0 +1,21 @@
+cff-version: 1.1.0
+authors:
+  orcid: https://orcid.org/0000-0000-0000-0000
+- family-names: Collins
+  given-names: Kimberly
+  orcid: https://orcid.org/0000-0000-0000-0000
+- family-names: Der Wartanian
+  given-names: Raffi
+  orcid: https://orcid.org/0000-0000-0000-0000
+- family-names: Hou
+  given-names: Yunfei
+  orcid: https://orcid.org/0000-0000-0000-0000
+- family-names: Khatri
+  given-names: Bhavik
+  orcid: https://orcid.org/0000-0000-0000-0000
+- family-names: Ayyagari
+  given-names: Sai Kalyan
+  orcid: https://orcid.org/0000-0000-0000-0000
+title: "Trips-for-Medium--and-Heavy-Duty-Vehicles-Across-the-Six-Subregions-of-the-Inland-Empire"
+version: v1.0.0
+date-released: 2024-04-15
