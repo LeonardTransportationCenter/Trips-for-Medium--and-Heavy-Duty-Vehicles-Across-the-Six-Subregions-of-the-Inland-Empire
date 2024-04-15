@@ -1,1 +1,3 @@
 # Trips-for-Medium--and-Heavy-Duty-Vehicles-Across-the-Six-Subregions-of-the-Inland-Empire
+
+The research conducted by Kimberly Collins, Ph.D., and her team at the William and Barbara Leonard Transportation Center, California State University, San Bernardino, investigates the traffic patterns of medium- and heavy-duty vehicles (MDHDVs) in the Inland Empire (IE) of Southern California. Their study leverages data from proprietary big data vendors to differentiate between long-haul (LH) and regional short-haul (RSH) trips. The use of big data is aimed to overcome challenges in data collection and analysis, such as reliability and accuracy, to improve regional traffic management and planning.
