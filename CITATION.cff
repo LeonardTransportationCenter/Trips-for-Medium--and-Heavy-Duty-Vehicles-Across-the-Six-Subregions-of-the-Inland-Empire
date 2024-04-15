@@ -1,0 +1,21 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Collins
+  given-names: Kimberly
+  orcid: https://orcid.org/0000-0003-0770-0416
+- family-names: Der Wartanian
+  given-names: Raffi
+  orcid: https://orcid.org/0000-0003-1309-8628
+- family-names: Hou
+  given-names: Yunfei
+  orcid: https://orcid.org/0000-0001-9443-4026
+- family-names: Khatri
+  given-names: Bhavik
+  orcid: https://orcid.org/0009-0006-2321-4097
+- family-names: Ayyagari
+  given-names: Sai Kalyan
+  orcid: https://orcid.org/0009-0007-1611-7114
+title: "LeonardTransportationCenter/Trips-for-Medium--and-Heavy-Duty-Vehicles-Across-the-Six-Subregions-of-the-Inland-Empire: RSH LH"
+version: v1.0.0
+date-released: 2024-04-15
